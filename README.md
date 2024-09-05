@@ -1,1 +1,1 @@
-# Algo_Visualizer
+# Graph_Visualizer
